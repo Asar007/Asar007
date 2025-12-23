@@ -16,73 +16,21 @@
 
 </div>
 
----
+### ⚡ The Human Behind the Code
 
-### 🧬 System Specifications
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3>👨‍💻 Identity</h3>
-      <ul>
-        <li><strong>User:</strong> SM Mohamed Asif</li>
-        <li><strong>Class:</strong> B.Tech IT Undergraduate</li>
-        <li><strong>Archetype:</strong> AI Engineer & Competitive Programmer</li>
-        <li><strong>Base:</strong> Java & Python Ecosystems</li>
-      </ul>
-      <h3>🚀 Mission Status</h3>
-      <ul>
-        <li><strong>Current Quest:</strong> Building <code>Nephele</code> (Local AI Voice Assistant)</li>
-        <li><strong>Side Quests:</strong> Grinding AtCoder (Rank: Green/Brown?) & Codeforces</li>
-        <li><strong>Target:</strong> High-impact engineering at Top Tech</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🧠 Neural Network</h3>
-      <ul>
-        <li><strong>Focus:</strong> LLMs, Graph-RAG, Vector Databases</li>
-        <li><strong>Stack:</strong> FastAPI, Streamlit, PyTorch, Supabase</li>
-        <li><strong>Learning:</strong> System Design & Scalable Architectures</li>
-      </ul>
-      <h3>👾 Personality Core</h3>
-      <ul>
-        <li><strong>Media:</strong> Black Mirror, Silicon Valley, Blade Runner</li>
-        <li><strong>Philosophy:</strong> "If it works, optimize it. If it doesn't, debug it."</li>
-        <li><strong>Fuel:</strong> Sci-Fi & Caffeine</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
----
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Asar007&theme=react&show_icons=true&hide_border=true&count_private=true" width="400" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asar007&layout=compact&theme=react&hide_border=true" width="400" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://codeforces.com/profile/asif.mohamed1616">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=asif.mohamed1616&theme=react&hide_border=true" width="400" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://atcoder.jp/users/Asif_16">
-        <img src="https://atcoder-readme-stats.vercel.app/stats/Asif_16?theme=dark&hide_border=true&show_history=false&show_icons=true" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asar007&theme=react&hide_border=true" width="85%" />
-</div>
+I am a **B.Tech Information Technology** student bridging the gap between **Algorithmic Problem Solving** and **Generative AI**. 
 
+I don't just write code; I build systems that *think*. From creating **Nephele** (my custom AI Voice Assistant) to architecting **RAG-based Chatbots**, I am obsessed with how LLMs interact with real-world data.
+
+- 🔭 **I’m currently working on:** Advanced RAG pipelines and Deepfake Detection systems using Python & Computer Vision.
+
+- 🏆 **Competitive Programming:** I actively compete on **Codeforces (Pupil)** and **AtCoder**, sharpening my logic with Java and C++.
+
+- ⚡ **Fun Fact:** I treat my life like an episode of *Silicon Valley*, minus the disasters. Huge fan of *Black Mirror* and cyberpunk aesthetics.
+
+<br clear="right"/>
 ### 🛠️ The Arsenal
 
 **Languages**
