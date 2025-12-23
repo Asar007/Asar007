@@ -97,5 +97,5 @@
   
   <br/><br/>
 
-  <img src="https://tenor.com/ja/view/cat-gif-13669436608266942518" width="100%" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/nyan-cat.gif" width="100%" />
 </div>
