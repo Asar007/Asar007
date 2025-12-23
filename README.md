@@ -18,13 +18,43 @@
 
 ---
 
-### ⚡ About Me
-> *B.Tech IT student passionate about **AI Architectures**, **Deep Learning**, and **System Optimization**.*
+### 🧬 System Specifications
 
-* 🔭 **Working on:** Scalable AI architectures & Backend systems.
-* 🏆 **Achievements:** Hackathon Winner & Codeforces Pupil.
-* 🧠 **Interests:** Graph-RAG, Semantic Search, Deepfake Detection.
-
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 Identity</h3>
+      <ul>
+        <li><strong>User:</strong> SM Mohamed Asif</li>
+        <li><strong>Class:</strong> B.Tech IT Undergraduate</li>
+        <li><strong>Archetype:</strong> AI Engineer & Competitive Programmer</li>
+        <li><strong>Base:</strong> Java & Python Ecosystems</li>
+      </ul>
+      <h3>🚀 Mission Status</h3>
+      <ul>
+        <li><strong>Current Quest:</strong> Building <code>Nephele</code> (Local AI Voice Assistant)</li>
+        <li><strong>Side Quests:</strong> Grinding AtCoder (Rank: Green/Brown?) & Codeforces</li>
+        <li><strong>Target:</strong> High-impact engineering at Top Tech</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🧠 Neural Network</h3>
+      <ul>
+        <li><strong>Focus:</strong> LLMs, Graph-RAG, Vector Databases</li>
+        <li><strong>Stack:</strong> FastAPI, Streamlit, PyTorch, Supabase</li>
+        <li><strong>Learning:</strong> System Design & Scalable Architectures</li>
+      </ul>
+      <h3>👾 Personality Core</h3>
+      <ul>
+        <li><strong>Media:</strong> Black Mirror, Silicon Valley, Blade Runner</li>
+        <li><strong>Philosophy:</strong> "If it works, optimize it. If it doesn't, debug it."</li>
+        <li><strong>Fuel:</strong> Sci-Fi & Caffeine</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
 ---
 <div align="center">
 <table>
