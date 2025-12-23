@@ -87,8 +87,15 @@
 ---
 
 <div align="center">
-<br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Asar007&style=for-the-badge&color=20C20E&label=PROFILE+VIEWS" alt="Profile Counter" />
+  <br/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Asar007&style=for-the-badge&color=20C20E&label=PROFILE+VIEWS" alt="Profile Counter" />
+  
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/sIIhZ104wx4GjU1u5k/giphy.gif" width="100%" />
 </div>
