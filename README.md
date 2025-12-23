@@ -49,13 +49,9 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asar007&theme=react&hide_border=true" width="85%" />
-
 </div>
----
 
 ### 🛠️ The Arsenal
 
