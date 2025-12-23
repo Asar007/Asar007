@@ -45,7 +45,6 @@
       <a href="https://codeforces.com/profile/Asar007">
         <img src="https://img.shields.io/badge/Codeforces-Pupil-008000?style=for-the-badge&logo=codeforces&logoColor=white" width="400" />
       </a>
-      
       <br/> 
       <a href="https://atcoder.jp/users/Asif_16">
         <img src="https://atcoder-readme-stats.vercel.app/stats/Asar007?theme=dark&hide_border=true&show_history=false&show_icons=true" width="400" />
