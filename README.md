@@ -89,6 +89,6 @@
 <div align="center">
 <br/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-<br/>
-<img src="https://visitcount.itsvg.in/api?id=Asar007&icon=0&color=0" />
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Asar007&style=for-the-badge&color=20C20E&label=PROFILE+VIEWS" alt="Profile Counter" />
 </div>
