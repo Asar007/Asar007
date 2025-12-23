@@ -26,35 +26,34 @@
 * 🧠 **Interests:** Graph-RAG, Semantic Search, Deepfake Detection.
 
 ---
-
 <div align="center">
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Asar007&theme=react&show_icons=true&hide_border=true&count_private=true" width="400" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asar007&layout=compact&theme=react&hide_border=true" width="400" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://codeforces.com/profile/asif.mohamed1616">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=asif.mohamed1616&theme=react&hide_border=true" width="400" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://atcoder.jp/users/Asif_16">
         <img src="https://atcoder-readme-stats.vercel.app/stats/Asif_16?theme=dark&hide_border=true&show_history=false&show_icons=true" width="400" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asar007&theme=react&hide_border=true" />
-    </td>
-  </tr>
 </table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asar007&theme=react&hide_border=true" width="85%" />
+
 </div>
 ---
 
