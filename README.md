@@ -42,14 +42,18 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asar007&theme=react&hide_border=true" width="400" />
     </td>
     <td align="center">
-      <a href="https://codeforces.com/profile/asif.mohamed1616">
-        <img src="https://img.shields.io/badge/Codeforces-Pupil-green?style=for-the-badge&logo=codeforces&logoColor=white" width="400" />
+      <a href="https://codeforces.com/profile/Asar007">
+        <img src="https://img.shields.io/badge/Codeforces-Pupil-008000?style=for-the-badge&logo=codeforces&logoColor=white" width="400" />
       </a>
-      </td>
+      
+      <br/> 
+      <a href="https://atcoder.jp/users/Asif_16">
+        <img src="https://atcoder-readme-stats.vercel.app/stats/Asar007?theme=dark&hide_border=true&show_history=false&show_icons=true" width="400" />
+      </a>
+    </td>
   </tr>
 </table>
 </div>
-
 ---
 
 ### 🛠️ The Arsenal
