@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=850&lines=Hi,+I'm+SM+Mohamed+Asif;Building+Intelligent+Systems;Hackathon+Winner+%7C+Codeforces+Pupil;Explaining+AI+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=850&lines=Hi,+I'm+SM+Mohamed+Asif;Building+Intelligent+Systems;Hackathon+Winner+%7C+Codeforces+Pupil;Explaining+AI+with+Code" alt="Typing SVG" />
 </div>
 
 
@@ -54,77 +54,94 @@
 </div>
 
 <div align="center">
-<table width="850px">
+<table width="850px" style="border:2px solid #00FFFF; border-radius:14px; box-shadow:0 0 12px #00FFFF; overflow: hidden; border-spacing: 0;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Asar007&theme=react&show_icons=true&hide_border=true&count_private=true" width="400" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asar007&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&hide_border=true&count_private=true&show_icons=true" width="400"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asar007&layout=compact&theme=react&hide_border=true" width="400" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asar007&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&hide_border=true" width="400"/>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
       <a href="https://codeforces.com/profile/asif.mohamed1616">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=asif.mohamed1616&theme=react&hide_border=true" width="400" />
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=asif.mohamed1616&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&hide_border=true" width="400"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://atcoder.jp/users/Asif_16">
-        <img src="https://atcoder-readme-stats.vercel.app/stats/Asif_16?theme=dark&hide_border=true&show_history=false&show_icons=true" width="400" />
+      <a href="https://leetcode.com/u/HALFAWAKENCATTO/">
+        <img src="https://leetcard.jacoblin.cool/HALFAWAKENCATTO?theme=transparent&font=Inter&ext=contest" width="400"/>
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asar007&bg_color=0d1117&color=00FFFF&line=00FFFF&point=00FFFF&hide_border=true&area=true" width="820"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" width="100%"/>
+    </td>
+  </tr>
 </table>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asar007&theme=react&hide_border=true" width="850" />
 </div>
 
 ### 🛠️ The Arsenal
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-00FFFF?style=for-the-badge&logo=openjdk&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/C-00FFFF?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
+
+<br>
 
 **AI & Data Science**
 <br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-00FFFF?style=for-the-badge&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-00FFFF?style=for-the-badge&logo=pandas&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-00FFFF?style=for-the-badge&logo=numpy&logoColor=black" />
+
+<br>
 
 **Backend & Cloud**
 <br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black" />
+<img src="https://img.shields.io/badge/Flask-00FFFF?style=for-the-badge&logo=flask&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-00FFFF?style=for-the-badge&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-00FFFF?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<br>
 
 **Tools & Platforms**
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Notion-00FFFF?style=for-the-badge&logo=notion&logoColor=black" />
 
 <div align="center">
-<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/nyan-cat.gif" width="900" />
-</div>
-
-<div align="center">
-<p>
-<a href="https://discord.gg/half_awaken_catto_3">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/smasifmohamed/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:asif.mohamed1616@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+  <img src="https://media.tenor.com/C3QQhEjZ3RkAAAAi/hatsune-miku.gif" width="30%" style="border-radius: 10px;"/>
+  <p>
+    <a href="https://discord.gg/half_awaken_catto_3">
+      <img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=black" />
+    </a>
+    <a href="https://www.linkedin.com/in/smasifmohamed/">
+      <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    </a>
+    <a href="https://www.reddit.com/user/Agile_Ad3910/">
+      <img src="https://img.shields.io/badge/Reddit-00FFFF?style=for-the-badge&logo=reddit&logoColor=black" />
+    </a>
+    <a href="mailto:asif.mohamed1616@gmail.com">
+      <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+    </a>
+  </p>
 </div>
